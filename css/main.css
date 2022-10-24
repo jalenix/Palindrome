@@ -1,0 +1,25 @@
+.palindrome {
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(88, 52, 5);
+    background-color:rgb(185, 181, 240);
+    max-width: 300px;
+    margin: 0 auto;
+    border-radius: 10px;
+    height: 200px;
+    padding-top: 5px;
+    margin-top: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.click {
+    text-align: center;
+}
+
+.btn {
+    margin-top: 10px;
+    height: 30px;
+
+}
